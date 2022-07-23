@@ -26,7 +26,7 @@ Wordlist generator filtered by password's length and special name
 # Screenshot1
 ![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/SearchByLength.png)
 
-# Screenshot2
+# Screenshot2 
 ![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/SearchByName.png)
 
 # Thanks :)          
