@@ -23,11 +23,12 @@ Wordlist generator filtered by password's length and special name
 > Telegram  : https://telegram.me/IvanLipovsky                                           
 > Instagram : https://instagram.com/foxycodepixel                        
 
-## Search by length
-![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/Search%20by%20length.png)
+# Screenshots
+> Search by length
+![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/SearchByLength.png)
 
-## Search by name
-![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/Search%20by%20name.png)
+> Search by name
+![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/SearchByName.png)
 
 # Thanks :)          
 
