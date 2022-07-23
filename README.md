@@ -11,7 +11,7 @@ Wordlist generator filtered by password's length and special name
 2 • `cd XWordList`                             
 3 • `chmod +x install.sh`                         
 4 • `./install.sh`                                
-5 • `./xwl.py` OR `python3 xwl.py`
+5 • `./xwl.py` or `python3 xwl.py`
 
 # One line                            
 `git clone https://github.com/FoxyCodePixel/XWordList && cd XWordList && chmod +x install.sh && ./install.sh && ./xwl.py`
