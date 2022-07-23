@@ -1,5 +1,5 @@
 # XWordList
-Wordlist generator filtered by password's length and special name
+Wordlist generator filtered by length and special name
 
 ![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/XWordList.jpg)
 
