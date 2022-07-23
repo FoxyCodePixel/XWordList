@@ -1,7 +1,7 @@
 # XWordList
 Wordlist generator filtered by password's length and special name
 
-![This is an image](https://github.com/CodeLickers/XWordList/blob/main/FoxyCodePixel.png)
+![This is an image](https://github.com/FoxyCodePixel/XWordList/blob/main/FoxyCodePixel.png)
 
 # Requirements
 1 : Python3
